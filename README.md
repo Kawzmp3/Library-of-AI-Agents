@@ -1,16 +1,7 @@
 # Library of AI Agents
 
 A comprehensive collection of AI-powered agents for various tasks, including trading, content creation, blockchain analysis, and utility automation.
-
-         __             
- _(\    |@@|              
-(__/\__ \--/ __
-   \___|----|  |   __
-       \ }{ /\ )_ / _\    
-       /\__/\ \__O (__
-      (--/\--)    \__/    
-      _)(  )(_          
-     `---''---`                     
+                 
 
 ## 🤖 Categories
 
